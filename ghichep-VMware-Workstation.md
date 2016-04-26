@@ -28,8 +28,9 @@
 
 ----
 
-### <a name="gioi-thieu"></a>I.Giới thiệu về VMware Workstation
 
+### <a name="gioi-thieu"></a>I.Giới thiệu về VMware Workstation
+----
 
 #### <a name="gioi-thieu1"></a>1.Giới thiệu về VMware Workstation
 
@@ -76,6 +77,7 @@ Với hàng triệu khách hàng và hàng loạt các giải thưởng quan tr�
 
 
 ###<a name="cau-hinh"></a> II.Hướng dẫn sử dụng và cấu hình
+----
 
 ####<a name="cau-hinh1"></a>1.Cấu hình tối thiểu
 
@@ -228,7 +230,9 @@ Các bước cài đặt tiếp theo:
 
 <img src="https://cloud.githubusercontent.com/assets/16606859/14807468/07981196-0ba7-11e6-869d-f507943148e1.png">
 
+
 ###<a name="network"></a>III.Card mạng và Network
+----
 
 ####<a name="card-mang"></a>1.Card mạng trong VMware
 
