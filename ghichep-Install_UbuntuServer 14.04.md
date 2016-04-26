@@ -11,9 +11,12 @@
 * [2.Các bước cài đặt](#cai-dat2)
 
 ----
-###<a name="gioi-thieu"></a>I.Giới thiệu về Ubuntu Server
 
+
+###<a name="gioi-thieu"></a>I.Giới thiệu về Ubuntu Server
+----
 Giấp phép: GNU GPL
+
 Trang chủ dự án: http://www.ubuntu.com/server
   <ul>
   <li>Ubuntu Linux là một hệ điều hành máy tính dựa trên Debian GNU/Linux, là một trong bản phân phối end-user phổ biến nhất của Linux.</li>
@@ -22,8 +25,11 @@ Trang chủ dự án: http://www.ubuntu.com/server
   <li>Ubuntu được tài trợ bởi Canonical Ltd (chủ sở hữu là một người Nam Phi Mark Shuttleworth). Thay vì bán Ubuntu, Canonical tạo ra doanh thu bằng cách bán hỗ trợ kĩ thuật. </li>
   <li>Ubuntu server là một phiên bản của ubuntu được sử dụng cho các server.</li>
   </ul>
+  
+  
 ###<a name="cai-dat"></a>II.Hướng dẫn cài đặt
 
+----
 ####<a name="cau-hinh"></a>1.Cấu hình tối thiểu
 Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy có bộ vi xử lí 300 MHz x86, RAM 256 MB,[12] và card màn hình VGA hỗ trợ độ phân giải 640x480 trở lên.
 
