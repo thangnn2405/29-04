@@ -14,7 +14,16 @@ Tải trên trang chủ của Ubuntu http://releases.ubuntu.com/16.04.
 
 Những thay đổi trong Ubuntu 16.04 LTS: Ubuntu Software Center sẽ được thay thế bằng GNOME Software, phát triển tính năng Click Lock, Startup Disk Creator được làm mới, chương trình ghi đĩa và ứng dụng nhắn tin Empathy sẽ không còn được cài đặt mặc định, ứng dụng lịch GNOME Calendar sẽ được cài mặc định, ....
 
+
 ###Ubuntu 16.04 LTS với giao diện Unity 7 sẽ hỗ trợ gói Snappy
+
+Ubuntu 17.04 sẽ sử dụng Unity 7.4
+* giờ đây có thể tìm cách Shutdown, restart, log out,.. trong Unity Dash
+* Di chuyển Unity Launcher xuống phía dưới
+* Tìm kiếm trực tuyến mặc định bị tắt
+* Thêm tùy chọn format removable devices trong quicklist của Unity Launcher
+* Thanh trượt mới trong Unity Dash
+
 
 Gói phần mềm Snappy được hỗ trợ trong phiên bản Ubuntu mới, Ubuntu 16.04 LTS (với giao diện Unity 7). Thông báo này được công bố từ Will Cooke (leader trong Ubuntu Desktop) trong cuộc nói chuyện “Ubuntu Online Submmit”.
 
@@ -57,7 +66,22 @@ Những ứng dụng trên hệ thống Ubuntu đã không có quá nhiều thay
 
 Phiên bản Startup Disk Creator đã được các nhà phát triển làm mới trên nền tảng golang và QML. Phiên bản Startup DIsk Creator cũ chỉ gồm những dòng chữ, trong khi đó phiên bản mới (như trong hình) sẽ có những biểu tượng sinh động, bắt mắt hơn, cùng với đó là thiết kế hoàn toàn mới so với cũ.
 
-Ở phiên bản Startup Disk Creator cũ chỉ cho phép tạo một bộ cài đặt hệ điều hành Ubuntu trên USB, chứ không thể tạo trên 2 hay nhiều bộ cài đặt hệ điều hành Ubuntu trong USB. Phiên bản Startup Disk Creator mới này sẽ có tính năng tạo nhiều bộ cài đặt hệ điều hành Ubuntu trên USB. Mình thật sự rất thích tính năng này.
+###Unity Launcher giờ đây có thể thay đổi vị trí
 
+![](http://i.imgur.com/lYAaqc8.png)
 
+Linux được biết đến nhờ sự tùy chỉnh .Ta có thể tùy chỉnh trong Ubuntu, tùy chỉnh màn hình, themes và các icons
+Nhưng có một thứ không bao giờ thay đổi dó là Unity Launcher cố định ở bên trái màn hình, điều duy nhất có thể làm là giấu(hide) nó đi
+
+Ở bản Ubuntu 16.04 Unity Launcher giờ đây có thêm một lựa chọn : **Di chuyển xuống dưới**. Tuy nhiên nó vẫn không thể di chuyển sang phải hoặc lên trên
+
+### apt và apt-get
+
+Ubuntu 16.04 khuyến khích người dùng sử dụng câu lệnh apt thay vì apt-get. Ví dụ :Khi muốn xóa những gói không sử dụng ta dùng lệnh  **apt autoremove** thay vì **apt-get autoremove** .
+
+Không có nhiều sự khác nhau giữa *ap*t và *apt-get*. Hơn nữa thì *apt* cũng không phải một lệnh mới, nó đã được sử dụng trong Debian trong nhiều năm, và cú pháp của nó cũng giống như *apt-get*
+
+Một điểm nữa của *apt* đó là nó sẽ hiển thị thanh tiến trình trong terminal cho phép theo dõi trạng thái cài đặt
+
+![](http://image.prntscr.com/image/b04d5ee5ba0848aca809c3e165af6e6f.png)
 
