@@ -31,7 +31,6 @@
 
 
 ### <a name="gioi-thieu"></a>I.Giới thiệu về VMware Workstation
-----
 
 #### <a name="gioi-thieu1"></a>1.Giới thiệu về VMware Workstation
 
@@ -76,9 +75,10 @@ Với hàng triệu khách hàng và hàng loạt các giải thưởng quan tr�
   <li>Hỗ trợ kết nối đến VMware vSphere và dịch vụ vCloud Air cho phép mở rộng quy mô máy ảo trên cloud </li>
   </ul>
 
+----
 
 ###<a name="cau-hinh"></a> II.Hướng dẫn sử dụng và cấu hình
-----
+
 
 ####<a name="cau-hinh1"></a>1.Cấu hình tối thiểu
 
@@ -231,9 +231,9 @@ Các bước cài đặt tiếp theo:
 
 <img src="https://cloud.githubusercontent.com/assets/16606859/14807468/07981196-0ba7-11e6-869d-f507943148e1.png">
 
+----
 
 ###<a name="network"></a>III.Card mạng và Network
-----
 
 ####<a name="card-mang"></a>1.Card mạng trong VMware
 
@@ -287,6 +287,8 @@ Một điều lưu ý là khi bạn copy một máy ảo thì chúng ta nên tha
 <img src="https://cloud.githubusercontent.com/assets/16606859/14815783/831686ce-0bd7-11e6-9c9c-603c3b47b4be.png">
 
 Nếu bạn muốn bỏ chế độ DHCP của VMnet nào, bạn chỉ cần bỏ dấu check tại **Use local DHCP service to distribute IP address to VMs**. Bạn có thể tinh chỉnh lại DHCP bạn có thể chọn vào **DHCP Setting**, trong này bạn có thể chỉnh lại các tham số thời gian, tham số Scope IP (lưu ý: bạn chỉ có thể sửa lại vùng địa chỉ host chứ không được chỉnh lại vùng network)
+
+----
 
 ##<a name="tong-ket"></a>Tổng kết
 Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng VMware Workstation, hi vọng nó giúp các bạn một phần nào đó.
