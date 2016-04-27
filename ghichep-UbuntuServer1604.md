@@ -41,5 +41,23 @@ Phiên bản Ubuntu Software Center khá nặng nề và có gì đó làm mình
 
 ###Tính năng Click Lock (trên Windows) sẽ có mặt trong Ubuntu 
 
-![](http://imgur.com/GIisVWM)
+![](http://i.imgur.com/wmA2TWe.png)
+
+Trên Windows có một tính năng tên là Click Lock, nó cho phép người dùng di chuyển files/thư mục mà không cần bấm giữ chuột. Đây là tính năng khá hữu ích nhưng nó hoàn toàn chưa có trên hệ thống Linux, vì vậy các nhà phát triển Ubuntu đang làm việc để đưa tính năng Click Lock lên phiên bản mới, Ubuntu 16.04 LTS
+
+Nói thêm một chút về tính năng Click Lock, bình thường nếu bạn muốn di chuyển files/thư mục đến nơi khác, bạn phải bấm giữ chuột và đưa nó tới đích, nhưng với tính năng Click Lock, bạn chỉ cần bấm giữ khoảng 2-3 giây (có thể tùy chỉnh lại) lên files/thư mục, sau đó di chuyển tới bất kì đâu bạn muốn (bằng chuột) mà không cần bấm giữ chuột. Nếu bạn sử dụng chuột rời thì không cần thiết lắm nhưng nếu bạn đang sử dụng touchpad thì đây là một tính năng khá hữu ích.
+
+Như đã nói ở trên, vì tính năng Click Lock chưa hề có mặt trên hệ thống Linux nên các nhà phát triển sẽ phải bắt đầu từ đầu, và gần như họ sẽ phải liên hệ với các nhà phát triển khác để hoàn thiện tính năng này.
+
+###Startup Disk Creator được làm mới 
+
+![](http://i.imgur.com/Kff9Ryo.png)
+
+Những ứng dụng trên hệ thống Ubuntu đã không có quá nhiều thay đổi từ vài năm trở lại đây, trong đó phải nhắc đến Startup Disk Creator.
+
+Phiên bản Startup Disk Creator đã được các nhà phát triển làm mới trên nền tảng golang và QML. Phiên bản Startup DIsk Creator cũ chỉ gồm những dòng chữ, trong khi đó phiên bản mới (như trong hình) sẽ có những biểu tượng sinh động, bắt mắt hơn, cùng với đó là thiết kế hoàn toàn mới so với cũ.
+
+Ở phiên bản Startup Disk Creator cũ chỉ cho phép tạo một bộ cài đặt hệ điều hành Ubuntu trên USB, chứ không thể tạo trên 2 hay nhiều bộ cài đặt hệ điều hành Ubuntu trong USB. Phiên bản Startup Disk Creator mới này sẽ có tính năng tạo nhiều bộ cài đặt hệ điều hành Ubuntu trên USB. Mình thật sự rất thích tính năng này.
+
+
 
