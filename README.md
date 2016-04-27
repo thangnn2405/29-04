@@ -10,4 +10,4 @@
 - Add 2 card mạng trên máy Ubuntu Server, cấu hình cho 2 card mạng  **chưa hoàn thành**
 
 
-[Tìm hiểu Ubuntu 16.04](https://github.com/thangnn2405/29-04/blob/master/ghichep-UbuntuServer1604.md)
+- [Tìm hiểu Ubuntu 16.04](https://github.com/thangnn2405/29-04/blob/master/ghichep-UbuntuServer1604.md)
