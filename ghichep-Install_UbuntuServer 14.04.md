@@ -9,6 +9,7 @@
 * [1.Cấu hình tối thiểu](#cau-hinh)
 
 * [2.Các bước cài đặt](#cai-dat2)
+###Tổng kết(#tong-ket)
 
 ----
 
@@ -111,3 +112,15 @@ Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy c�
 #####q.Hoàn thành cài đặt
 
 <img src="https://cloud.githubusercontent.com/assets/16606859/14824624/c93e590a-0c00-11e6-8592-da20e6968379.png">
+
+<a name ="tong-ket"></a>Tổng kết
+
+Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng VMware Workstation, hi vọng nó giúp các bạn một phần nào đó.
+
+Chắc chắn bài viết còn có nhiều thiếu sót, mong các bạn thông cảm và gửi feedback cho tôi để hoàn thiện thêm.
+
+Liên lạc của tôi:
+
+`thangnn.hanu@gmail.com`
+
+Xin chân thành cảm ơn!
