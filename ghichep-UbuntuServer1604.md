@@ -15,9 +15,9 @@ Tải trên trang chủ của Ubuntu http://releases.ubuntu.com/16.04.
 Những thay đổi trong Ubuntu 16.04 LTS: Ubuntu Software Center sẽ được thay thế bằng GNOME Software, phát triển tính năng Click Lock, Startup Disk Creator được làm mới, chương trình ghi đĩa và ứng dụng nhắn tin Empathy sẽ không còn được cài đặt mặc định, ứng dụng lịch GNOME Calendar sẽ được cài mặc định, ....
 
 
-###Ubuntu 16.04 LTS với giao diện Unity 7 sẽ hỗ trợ gói Snappy
+###Ubuntu 16.04 LTS với giao diện Unity 7.4 sẽ hỗ trợ gói Snappy
 
-Ubuntu 17.04 sẽ sử dụng Unity 7.4
+Ubuntu 16.04 sẽ sử dụng Unity 7.4
 * giờ đây có thể tìm cách Shutdown, restart, log out,.. trong Unity Dash
 * Di chuyển Unity Launcher xuống phía dưới
 * Tìm kiếm trực tuyến mặc định bị tắt
@@ -25,7 +25,7 @@ Ubuntu 17.04 sẽ sử dụng Unity 7.4
 * Thanh trượt mới trong Unity Dash
 
 
-Gói phần mềm Snappy được hỗ trợ trong phiên bản Ubuntu mới, Ubuntu 16.04 LTS (với giao diện Unity 7). Thông báo này được công bố từ Will Cooke (leader trong Ubuntu Desktop) trong cuộc nói chuyện “Ubuntu Online Submmit”.
+Gói phần mềm Snappy được hỗ trợ trong phiên bản Ubuntu mới, Ubuntu 16.04 LTS (với giao diện Unity 7.4). Thông báo này được công bố từ Will Cooke (leader trong Ubuntu Desktop) trong cuộc nói chuyện “Ubuntu Online Submmit”.
 
 Will Cooke muốn đội ngũ snappy và đội ngũ phát triển Ubuntu desktop cùng làm việc với nhau để làm tốt Software Center nhằm đưa gói snaps lên Ubuntu Desktop. Will Cooke muốn có nhiều ứng dụng chuyển sang gói snapps như LibreOffice, Firefox, Chrome, …. Điều này phụ thuộc rất nhiều vào các hãng thứ ba.
 
@@ -44,7 +44,7 @@ Việc sử dụng GNOME Software giúp nó được nâng cấp thường xuyê
 qua đó dành thời gian để các nhà phát triển làm nhiều việc khác, công việc hiện tại đang khá bận rộn đó là Ubuntu Touch,
 Ubuntu Snappy Core, Cloud, ….
 
-Như mình đã nói ở trên gói snappy sẽ hỗ trợ trong phiên bản mới, vì vậy một Store ổn định và cập nhật thường xuyên là hết sức cần thiết, và đây là một trong nhưng lý do quan trọng để thay thế Ubuntu Software Center bằng GNOME Software. Toàn bộ những thông tin bên Ubuntu Sofware Center sẽ được mang sang GNOME Software, chẳng hạn như ratings (xếp hạng sao), reviews (đánh giá), …
+Như đã nói ở trên gói snappy sẽ hỗ trợ trong phiên bản mới, vì vậy một Store ổn định và cập nhật thường xuyên là hết sức cần thiết, và đây là một trong nhưng lý do quan trọng để thay thế Ubuntu Software Center bằng GNOME Software. Toàn bộ những thông tin bên Ubuntu Sofware Center sẽ được mang sang GNOME Software, chẳng hạn như ratings (xếp hạng sao), reviews (đánh giá), …
 
 Phiên bản Ubuntu Software Center khá nặng nề và có gì đó làm mình ko thích, mình cũng không rõ, mình thường sử dụng Terminal để cài đặt phần mềm. Trước đó đội ngũ Ubuntu Mate cũng đã quyết định loại bỏ nó kể từ phiên bản Ubuntu 15.10. Việc thay thế chứ không phải loại bỏ hoàn toàn là việc làm đúng đắn, Một Store là tương đối quan trọng với người dùng mới, giúp họ tiếp cận với phần mềm một cách dễ dàng và trực quan hơn.
 
