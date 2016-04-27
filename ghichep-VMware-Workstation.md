@@ -26,6 +26,7 @@
  
 * [3.DHCP server ảo (Virtual DHCP Server)](#dhcp-ao)
 
+##[Tổng kết](#tong-ket)
 ----
 
 
@@ -286,6 +287,17 @@ Một điều lưu ý là khi bạn copy một máy ảo thì chúng ta nên tha
 <img src="https://cloud.githubusercontent.com/assets/16606859/14815783/831686ce-0bd7-11e6-9c9c-603c3b47b4be.png">
 
 Nếu bạn muốn bỏ chế độ DHCP của VMnet nào, bạn chỉ cần bỏ dấu check tại **Use local DHCP service to distribute IP address to VMs**. Bạn có thể tinh chỉnh lại DHCP bạn có thể chọn vào **DHCP Setting**, trong này bạn có thể chỉnh lại các tham số thời gian, tham số Scope IP (lưu ý: bạn chỉ có thể sửa lại vùng địa chỉ host chứ không được chỉnh lại vùng network)
+
+##<a name="tong-ket"></a>Tổng kết
+Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng VMware Workstation, hi vọng nó giúp các bạn một phần nào đó.
+
+Chắc chắn bài viết còn có nhiều thiếu sót, mong các bạn thông cảm và gửi feedback cho tôi để hoàn thiện thêm.
+
+Liên lạc của tôi:
+
+`thangnn.hanu@gmail.com`
+
+Xin chân thành cảm ơn!
 
 
 
