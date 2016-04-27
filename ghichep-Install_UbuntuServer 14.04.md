@@ -116,7 +116,7 @@ Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy c�
 
 ###<a name ="tong-ket"></a>Tổng kết
 
-Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng VMware Workstation, hi vọng nó giúp các bạn một phần nào đó.
+Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng Ubuntu Server 14.04, hi vọng nó giúp các bạn một phần nào đó.
 
 Chắc chắn bài viết còn có nhiều thiếu sót, mong các bạn thông cảm và gửi feedback cho tôi để hoàn thiện thêm.
 
