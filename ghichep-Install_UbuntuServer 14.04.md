@@ -9,6 +9,11 @@
 * [1.Cấu hình tối thiểu](#cau-hinh)
 
 * [2.Các bước cài đặt](#cai-dat2)
+ 
+
+
+###[III.Hướng dẫn đăng nhập bằng tài khoản root và cấu hình để SSH từ xa bằng tài khoản root](#root-ssh)
+
 
 ###[Tổng kết](#tong-ket)
 
@@ -113,6 +118,47 @@ Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy c�
 #####q.Hoàn thành cài đặt
 
 <img src="https://cloud.githubusercontent.com/assets/16606859/14824624/c93e590a-0c00-11e6-8592-da20e6968379.png">
+
+#####q.Đăng nhập với tài khoản và mật khẩu vừa tạo ( tài khoản của tôi là thangnn )
+
+![screenshot_6](https://cloud.githubusercontent.com/assets/16606859/14882039/e3378762-0d60-11e6-8f5e-bc66b01ee9c3.png)
+
+###<a name ="root-ssh"></a>III.Hướng dẫn đăng nhập bằng tài khoản root và cấu hình để SSH từ xa bằng tài khoản root
+
+**Bước 1:** Đăng nhập bằng tài khoản đã tạo trong bước cài đặt ( tài khoản của tôi là thangnn )
+
+![screenshot_6](https://cloud.githubusercontent.com/assets/16606859/14882039/e3378762-0d60-11e6-8f5e-bc66b01ee9c3.png)
+
+
+
+**Bước 2:** Thay đổi mật khẩu tài khoản root bằng câu lệnh
+
+`sudo passwd root`
+
+
+![](http://i.imgur.com/IAgkjKq.png)
+
+**Lưu ý :** Có những user được tạo ra nhưng chưa được phép sử dụng lệnh sudo, user này cần phải được cấp quyền sudo nếu không sẽ gặp lỗi :
+
+> *user* is not in the sudoers file.  This incident will be reported.
+
+**Bước 3:** Chuyển sang tài khoản root bằng câu lệnh
+
+`su -`
+
+![](http://i.imgur.com/Pxgu77F.png)
+
+**Bước 4:** Tiến hành sửa file config ( sửa dòng **PermitRootLogin withoutpassword** thành PermitRootLogin yes)
+
+`vi /etc/ssh/sshd_config`
+
+![](http://i.imgur.com/HywiSSQ.png)
+
+**Bước 5:** Restart lại dịch vụ SSH
+
+`sudo service ssh restart`
+
+**Bước 6:** SSH vào Ubuntu Server với tài khoản root
 
 ###<a name ="tong-ket"></a>Tổng kết
 
