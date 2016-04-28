@@ -4,9 +4,9 @@
 ##Mục lục
 ----
 
-###[I.Các bước thêm card mạng trong VMware]()
+###[I.Các bước thêm card mạng trong VMware](#add-card)
 
-###[II.Những lưu ý khi thêm card mạng]()
+###[II.Những lưu ý khi thêm card mạng](#luu-y)
 
 ----
 
@@ -46,7 +46,7 @@ Xem thêm bài [Các loại card mạng](https://github.com/thangnn2405/29-04/bl
 ![](http://i.imgur.com/aAwx7fV.png)
 
 
-###<a name ="add-card"></a>II.Những lưu ý khi thêm card mạng
+###<a name ="luu-y"></a>II.Những lưu ý khi thêm card mạng
 
 Khi thêm card mạng trong VMware ta cần chú ý đến những điều sau:
 
