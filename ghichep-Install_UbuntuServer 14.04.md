@@ -160,6 +160,8 @@ Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy c�
 
 **Bước 6:** SSH vào Ubuntu Server với tài khoản root
 
+![](http://i.imgur.com/4a8WLBS.png)
+
 ###<a name ="tong-ket"></a>Tổng kết
 
 Bài viết trên tôi tổng hợp lại những kiến thức thu được khi cài đặt và sử dụng Ubuntu Server 14.04, hi vọng nó giúp các bạn một phần nào đó.
