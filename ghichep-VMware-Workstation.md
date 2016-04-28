@@ -256,7 +256,8 @@ Khi tạo một máy ảo mới (New Virtual Machine wizard), card mạng ảo �
 
 Để thêm hoặc bớt VMnet ta có thể chọn **Add Network...** và **Remove Network...**
 
-**Lưu ý**: khi **Add Network** nếu muốn add thêm card mạng thì nên add từng card sau đó thoát hẳn ra ngoài rồi tiếp tục add card thứ 2, làm tương tự với các card muốn thêm tiếp theo. Nếu các card vmnet này được add cùng một lúc khi khởi tạo máy ảo thì sau này khi đặt IP cho các interface của máy ảo có thể xảy ra hiện tượng **đảo IP hai interface** rất khó chịu và khó khăn trong việc sửa lỗi
+[Xem cách add thêm card mạng cho VMware]
+
 
 <img src="https://cloud.githubusercontent.com/assets/16606859/14813158/9fcc4f2c-0bca-11e6-9caa-27f2c26afdbf.png">
 
