@@ -76,7 +76,7 @@ Mỗi máy tính cần có một card mạng Ethernet có dây hoặc không dâ
  
 
 
-###1.Thiết lập địa chỉ IP tạm thời
+###<a name = "ip-temp"> </a>1.Thiết lập địa chỉ IP tạm thời
 
 Để thiết lập địa chỉ IP tạm thời, ta cần sử dụng câu lệnh như *ip*, *ifconfig* và *route*. Những lệnh này cho phép bạn cấu hình cài đặt có hiệu lực ngay lập tức, tuy nhiên thì nó không bền vững và sẽ mất đi nếu reboot.
 
@@ -123,7 +123,7 @@ Nếu không cần dùng những thiết lập này nữa mà muốn xóa nó đ
 > Xóa các thiết lập địa chỉ IP sử dụng câu lệnh *ip* không thể xóa được nội dung trong file cấu hình /etc/resolv.conf. Bạn phải xóa hoặc chỉnh sửa lại bằng tay, reboot cũng có thể làm được điều tương tự
 
 
-###2. Thiết lập địa chỉ IP tĩnh (Static IP address)
+###<a name = "sta-ip"> </a>2. Thiết lập địa chỉ IP tĩnh (Static IP address)
 
 **Bước 1:** DÙng trình soạn thảo nào đó (vi) để mở file cấu hình mạng ( interfaces ):
 	
@@ -183,7 +183,7 @@ Nếu không cần dùng những thiết lập này nữa mà muốn xóa nó đ
 **Bước 6:** Kiểm tra mạng bằng lệnh ping 
 
 
-###3.Cấu hình card mạng nhận IP động từ DHCP server
+###<a name = "dhcp-ip"> </a>3.Cấu hình card mạng nhận IP động từ DHCP server
 
 Nếu muốn cấu hình card mạng nhận IP từ DHCP server chúng ta khai báo các dòng lệnh sau trong file /etc/network/interfaces thay cho 5 dòng lệnh cấu hình card mạng ở bước trên
 	
