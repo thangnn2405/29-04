@@ -1,7 +1,7 @@
 # Báo cáo công việc
 **Hạn chót 29/04/2016**
 
-### Yêu cầu:
+###Báo cáo :
 - [Tìm hiểu về WMware Workstation](https://github.com/thangnn2405/29-04/blob/master/ghichep-VMware-Workstation.md)
 
 - [Cài đặt Ubuntu server 14.04-4 64 bit lên vmware worksation, tại máy trạm mỗi người](https://github.com/thangnn2405/29-04/blob/master/ghichep-Install_UbuntuServer%2014.04.md) 
