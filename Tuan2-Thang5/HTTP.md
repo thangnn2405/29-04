@@ -48,7 +48,7 @@
 
 ####[1.Dòng trạng thái](#status-line)
 
-####[2.Phiên bản HTTP](#http-version)
+####[2.Phiên bản HTTP](#http-version2)
 
 ####[3.Mã trạng thái(Status Code)](#status-code)
 
@@ -374,7 +374,7 @@ Một dòng trạng thái bao gồm phiên bản giao thức được theo sau b
 
 	Status-Line = HTTP-Version SP Status-Code SP Reason-Phrase CRLF
 
-####<a name="http-version"></a>2.Phiên bản HTTP
+####<a name="http-version2"></a>2.Phiên bản HTTP
 
 Một Server hỗ trợ phiên bản HTTP/1.1 sẽ trả lại thông tin phiên bản như sau:
 
