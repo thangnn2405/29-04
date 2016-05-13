@@ -25,7 +25,7 @@
 
 * ####[3.Cấu trúc gói tin DNS](#23)
 
-###[II.DNS Server ](#30)
+###[III.DNS Server ](#30)
 
 * ####[1.Phân loại](#31)
 
@@ -56,7 +56,7 @@
 * ####[5.Cơ chế phân giải tên miền](#35)
 
 
-###[II.DNS Server ](#40)
+###[IV.DNSSEC](#40)
 
 * ####[1.Giới thiệu DNSSEC](#41)
 
