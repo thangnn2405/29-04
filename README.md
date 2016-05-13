@@ -9,6 +9,6 @@
 - [Tìm hiểu Ubuntu 16.04](https://github.com/Training/blob/master/Tu-n-4-Th-ng-4/blob/master/ghichep-UbuntuServer1604.md)
 
 ## Tuần 1-Tháng 5
- - Tìm hiểu giao thức HTTP và dịch vụ Web
- - Tìm hiểu giao thức và dịch vụ DNS
+ - [Tìm hiểu giao thức HTTP và dịch vụ Web](https://github.com/thangnn2405/Training/blob/master/Tuan2-Thang5/HTTP.md)
+ - [Tìm hiểu giao thức và dịch vụ DNS](https://github.com/thangnn2405/Training/blob/master/Tuan2-Thang5/DNS.md)
 
