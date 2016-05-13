@@ -6,51 +6,51 @@
 ## Mục lục
 ###[I.HTTP là gì](#definition)
 
-####[1.Các đặc điểm cơ bản](#basic-features)
+- ####[1.Các đặc điểm cơ bản](#basic-features)
 
-####[2.Cấu trúc cơ bản](#basic-architecture)
+- ####[2.Cấu trúc cơ bản](#basic-architecture)
 
 ####[II.Các tham số trong HTTP](#parameters)
 
-####[1.Phiên bản HTTP](#http-version)
+- ####[1.Phiên bản HTTP](#http-version)
 
-####[2.Uniform Resource Identifiers (URI)- Bộ nhận diện nguồn tài nguyên đồng nhất](#http-uri)
+- ####[2.Uniform Resource Identifiers (URI)- Bộ nhận diện nguồn tài nguyên đồng nhất](#http-uri)
 
-####[3.Date/Time Formats-Các định dạng Ngày/Thời gian](#http-format)
+- ####[3.Date/Time Formats-Các định dạng Ngày/Thời gian](#http-format)
 
-####[4.Character Sets(Các bộ ký tự)](#http-charset)
+- ####[4.Character Sets(Các bộ ký tự)](#http-charset)
 
-####[5.Content Encodings(Mã hóa nội dung)](#http-encode)
+- ####[5.Content Encodings(Mã hóa nội dung)](#http-encode)
 
-####[6.Media Types(Các kiểu đa phương tiện)](#http-mediatype)
+- ####[6.Media Types(Các kiểu đa phương tiện)](#http-mediatype)
 
-####[7.Language Tags(Các thẻ ngôn ngữ)](#http-langtag)
+- ####[7.Language Tags(Các thẻ ngôn ngữ)](#http-langtag)
 
 ####[III.Message trong HTTP](#http-message)
 
-####[1.Dòng đầu thông báo (start-line)](#start-line)
+- ####[1.Dòng đầu thông báo (start-line)](#start-line)
 
-####[2.Các trường Header](#header-field)
+- ####[2.Các trường Header](#header-field)
 
-####[3.Phần thân thông báo(Message-body)](#message-body)
+- ####[3.Phần thân thông báo(Message-body)](#message-body)
 
 ####[IV.Requests trong HTTP](#request)
 
-####[1.Dòng yêu cầu(Request-Line)](#request-line)
+- ####[1.Dòng yêu cầu(Request-Line)](#request-line)
 
-####[2.Phương thức yêu cầu(Request-Method)](#request-method)
+- ####[2.Phương thức yêu cầu(Request-Method)](#request-method)
 
-####[3.Bộ nhận diện Nguồn Đồng nhất(Request-URI)](#request-uri)
+- ####[3.Bộ nhận diện Nguồn Đồng nhất(Request-URI)](#request-uri)
 
-####[4.Các trường Request](#request-header)
+- ####[4.Các trường Request](#request-header)
 
 ####[IV.Responses trong HTTP](#http-responses)
 
-####[1.Dòng trạng thái](#status-line)
+- ####[1.Dòng trạng thái](#status-line)
 
-####[2.Phiên bản HTTP](#http-version2)
+- ####[2.Phiên bản HTTP](#http-version2)
 
-####[3.Mã trạng thái(Status Code)](#status-code)
+- ####[3.Mã trạng thái(Status Code)](#status-code)
 
 ---
 
